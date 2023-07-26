@@ -14,7 +14,7 @@ export default {
 };
 
 const columns = [
-  { name: 'name', minWidth: 150 },
+  { name: 'name', minWidth: 170 },
   { name: 'artist', minWidth: 150 },
   { name: 'type', minWidth: 150 },
   { name: 'release', minWidth: 150 },
